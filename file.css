@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', cursive;
+    front-size: 2vw;
+    color: blueviolet;
+}
+
+body{
+    background: url("https://sun9-30.userapi.com/impg/9yosmJRjOQ3ZzQpixpDyfDHCicNi2oBh_-HBxQ/rhzPeUo4hNA.jpg?size=1919x910&quality=96&sign=9d21bb6b256f90beda647910b7cb0e69&type=album") no-repeat;
+}
